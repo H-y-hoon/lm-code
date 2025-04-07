@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Checkpoints
+*.ckpt
+*.pt
+*.bin
+*.npy
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+.env/
+
+# Cache
+.cache/
+logs/
