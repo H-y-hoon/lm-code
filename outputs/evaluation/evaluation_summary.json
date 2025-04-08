@@ -1,8 +1,0 @@
-{
-  "Llama-1B": {
-    "BlendATIS": {
-      "accuracy": 0.0,
-      "intent_accuracy": {}
-    }
-  }
-}

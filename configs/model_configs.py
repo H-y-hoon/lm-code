@@ -106,7 +106,7 @@ MODEL_CONFIGS_3B = {
 TRAINING_CONFIG = {
     "batch_size": 4,
     "gradient_accumulation_steps": 8,
-    "learning_rate": 1e-4,
+    "learning_rate": 5e-5,
     "epochs": 3,
     "max_length": 512,
     "checkpoint_interval": 1800,
